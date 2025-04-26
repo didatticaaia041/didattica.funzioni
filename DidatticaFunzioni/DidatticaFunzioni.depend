@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1745659953 source:e:\codeblocksprojects\didatticafunzioni\main.cpp
+	<iostream>
+
+1745660015 source:e:\codeblocksprojects\didattica.funzioni\didatticafunzioni\main.cpp
+	<iostream>
+	<iomanip>
+
